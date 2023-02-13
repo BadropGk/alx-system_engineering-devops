@@ -1,0 +1,14 @@
+total 18
+drwxr-xr-x 1 BadropGk 197613  0 Feb 13 20:08 .
+drwxr-xr-x 1 BadropGk 197613  0 Feb 13 15:47 ..
+-rwxr-xr-x 1 BadropGk 197613 32 Feb 13 17:38 0-hello_world
+-rwxr-xr-x 1 BadropGk 197613 28 Feb 13 17:49 1-confused_smiley
+-rwxr-xr-x 1 BadropGk 197613 28 Feb 13 19:38 2-hellofile
+-rwxr-xr-x 1 BadropGk 197613 39 Feb 13 19:42 3-twofiles
+-rwxr-xr-x 1 BadropGk 197613 29 Feb 13 19:44 4-lastlines
+-rwxr-xr-x 1 BadropGk 197613 29 Feb 13 19:47 5-firstlines
+-rwxr-xr-x 1 BadropGk 197613 36 Feb 13 19:51 6-third_line
+-rwxr-xr-x 1 BadropGk 197613 72 Feb 13 19:57 7-file
+-rwxr-xr-x 1 BadropGk 197613 36 Feb 13 20:06 8-cwd_state
+-rw-r--r-- 1 BadropGk 197613 18 Feb 13 17:58 README.md
+-rw-r--r-- 1 BadropGk 197613  0 Feb 13 20:08 ls_cwd_content
